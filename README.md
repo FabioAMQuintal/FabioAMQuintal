@@ -2,7 +2,7 @@
 Welcome👋 
 <br> My name is Fabio and I'm from São Paulo. 
 ***
- My history as a Softwear Engineer can be considered a bit confusing!
+ My history as a Softwear Engineer might be considered a bit confusing!
 ### But calm down, I'll explain everything :D
  I'm graduated in Information Technology (2013) but it was at the Mechatronics college(2020) that the passion for programming really happened.
  <br>At FATEC-SP, we developed and played with Arduido, building projects... And programming that was pretty cool!
