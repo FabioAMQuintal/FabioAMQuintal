@@ -28,8 +28,8 @@ Welcome👋
 
 ***
 ### My projects
-+ [Jamming project](https://jamming-project-fabio.herokuapp.com/) - Built in React, this project allow you search and create a new playlist to your Spotify account([repo](https://github.com/FabioAMQuintal/jamming))
-+ [Personal budget]() - You can create own envelopes to keep track of the usage of your money([repo](https://github.com/FabioAMQuintal/personalBudget)) **:construction:Under construction:construction:**
++ [Jamming project](https://jamming-project-fabio.herokuapp.com/) - Built in React, this project allow you search and create a new playlist for your Spotify account([repo](https://github.com/FabioAMQuintal/jamming))
++ [Personal budget]() - **:construction:Project under construction:construction:** - You can create own envelopes to keep track of the usage of your money([repo](https://github.com/FabioAMQuintal/personalBudget)) 
 + [Fotomatic project](https://fabioamquintal.github.io/Fotomatic/) - Just a simple website using html and css([repo](https://github.com/FabioAMQuintal/Fotomatic))
 + There a few projects up coming!
 
