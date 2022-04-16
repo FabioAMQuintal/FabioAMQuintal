@@ -12,18 +12,15 @@ Welcome👋
  #### I'm getting more knowledge in front-end! I'm a *full-stack engineer* and my techstack currently is: 
 <div style="display: inline-block"><br>
  <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
- 
-
+ <img align="center" alt="react-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <img align="center" alt="redux-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img align="center" alt="javascript-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align="center" alt="postgre-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+ <img align="center" alt="express-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img align="center" alt="heroku-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+ <img align="center" alt="html-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" alt="css-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img align="center" alt="npm-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
 ***
@@ -33,7 +30,10 @@ Welcome👋
 + [Reddit consumer app]() - **:construction:Project under construction:construction:** - Build on react/redux, this app consumes Reddit data and render it([repo](https://github.com/FabioAMQuintal/redditconsumer)) 
 + [Fotomatic project](https://fabioamquintal.github.io/Fotomatic/) - Just a simple website using html and css([repo](https://github.com/FabioAMQuintal/Fotomatic))
 + There a few projects up coming!
-
+***
+<div>
+  <img height="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAMQuintal&layout=demo&langs_count=7&theme=discord_old_blurple "/>
+</div>
 
 
 <!--
