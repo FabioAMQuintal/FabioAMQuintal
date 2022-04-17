@@ -32,7 +32,7 @@ Welcome👋
 + There a few projects up coming!
 ***
 <div>
-  <img height="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAMQuintal&layout=demo&langs_count=7&theme=discord_old_blurple "/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAMQuintal&layout=demo&langs_count=7&theme=discord_old_blurple "/>
 </div>
 
 
