@@ -9,7 +9,7 @@ Welcome👋
  Well, the ~pandemic~ arrived and I went back to studying new technologies, and so many new things that were built there!
  I'm developing my portfolio, which I try to create all the solutions(or almost everything).
  ***
- #### I'm getting more knowledge in front-end! I'm a *full-stack engineer* and my techstack currently is: 
+ #### I'm a *full-stack developer* and my techstack currently is: 
 <div style="display: inline-block"><br>
  <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="react-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
