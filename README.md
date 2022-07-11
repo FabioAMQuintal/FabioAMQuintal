@@ -25,11 +25,13 @@ Welcome👋
 
 ***
 ### My projects
+
++ [Appointment API](https://ineeds-challenge-03-backend.herokuapp.com/) - Built in Node.js, this API is an appointment system.([repo](https://github.com/FabioAMQuintal/appointment-API-backend))
 + [Jamming project](https://jamming-project-fabio.herokuapp.com/) - Built in React, this project allow you search and create a new playlist for your Spotify account([repo](https://github.com/FabioAMQuintal/jamming))
++ [Digital Republic code challenge](https://digital-republic-fabio-quintal.herokuapp.com/) - Code challenge from Digital Republic([repo](https://github.com/FabioAMQuintal/digital-republic-challenge))
 + [Personal budget]() - **:construction:Project under construction:construction:** - You can create own envelopes to keep track of the usage of your money([repo](https://github.com/FabioAMQuintal/personalBudget)) 
 + [Reddit consumer app]() - **:construction:Project under construction:construction:** - Build on react/redux, this app consumes Reddit data and render it([repo](https://github.com/FabioAMQuintal/redditconsumer)) 
 + [Fotomatic project](https://fabioamquintal.github.io/Fotomatic/) - Just a simple website using html and css([repo](https://github.com/FabioAMQuintal/Fotomatic))
-+ [Digital Republic code challenge](https://digital-republic-fabio-quintal.herokuapp.com/) - Code challenge from Digital Republic([repo](https://github.com/FabioAMQuintal/digital-republic-challenge))
 + There a few projects up coming!
 ***
 <div>
