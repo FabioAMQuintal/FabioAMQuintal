@@ -24,6 +24,7 @@ Welcome👋
  <img align="center" alt="npm-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />         
 </div>
 
+<br>
 
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAMQuintal&layout=compact&langs_count=8&theme=discord_old_blurple"/>
