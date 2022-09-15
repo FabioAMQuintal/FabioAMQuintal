@@ -9,7 +9,7 @@ Welcome👋
  Well, the ~pandemic~ arrived and I went back to studying new technologies, and so many new things that were built there!
  I'm developing my portfolio, which I try to create all the solutions(or almost everything).
  ***
- #### I'm a *full-stack developer* and my techstack currently is: 
+ #### I'm a *full-stack developer* and *embedded developer*. My techstack currently is: 
 <div style="display: inline-block"><br>
  <img align="center" alt="nodejs-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="typescript-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -23,18 +23,6 @@ Welcome👋
  <img align="center" alt="css-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="npm-fabio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />         
 </div>
-
-***
-### My projects
-
-+ [Appointment API](https://appointment-api-fq.herokuapp.com) - Built in Node.js, this API is an appointment system.([repo](https://github.com/FabioAMQuintal/appointment-API-backend))
-+ [Jamming project](https://jamming-project-fabio.herokuapp.com/) - Built in React, this project allow you search and create a new playlist for your Spotify account([repo](https://github.com/FabioAMQuintal/jamming))
-+ [Digital Republic code challenge](https://digital-republic-fabio-quintal.herokuapp.com/) - Code challenge from Digital Republic([repo](https://github.com/FabioAMQuintal/digital-republic-challenge))
-+ [Personal budget]() - **:construction:Project is being rebuilt** - You can create own envelopes to keep track of the usage of your money([repo](https://github.com/FabioAMQuintal/personalBudget)) 
-+ [Reddit consumer app]() - **:construction:Project under construction** - Build on react/redux, this app consumes Reddit data and render it([repo](https://github.com/FabioAMQuintal/redditconsumer)) 
-+ [Fotomatic project](https://fabioamquintal.github.io/Fotomatic/) - Just a simple website using html and css([repo](https://github.com/FabioAMQuintal/Fotomatic))
-+ There a few projects up coming!
-***
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAMQuintal&layout=compact&langs_count=8&theme=discord_old_blurple"/>
 </div>
