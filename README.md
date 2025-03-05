@@ -1,5 +1,5 @@
 ### What is up, world?
-<br> I'm an Game/Embedded/Web software engineer
+<br> I'm a Game/Embedded/Web software engineer
 
 
 <!--
